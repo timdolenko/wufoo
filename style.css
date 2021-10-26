@@ -1,7 +1,11 @@
 .redesigned-theme-2018 .wufoo .section h3 {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding-top: 0px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+
+.redesigned-theme-2018 input.text {
+    width: 175px !important;
 }
 
 label.choice {
