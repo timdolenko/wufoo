@@ -4,8 +4,8 @@
     padding-top: 0px !important;
 }
 
-.redesigned-theme-2018 input.text {
-    width: 175px !important;
+.field.text.fn {
+    width: 175px;
 }
 
 label.choice {
