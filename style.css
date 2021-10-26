@@ -1,3 +1,9 @@
+.redesigned-theme-2018 .wufoo .section h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
 label.choice {
     width: 100% !important;
 }
