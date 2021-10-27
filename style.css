@@ -5,7 +5,7 @@
 }
 
 .field.text.fn, .field.text.ln {
-    width: 148px;
+    width: 148px !important;
 }
 
 label.choice {
