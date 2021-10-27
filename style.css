@@ -24,9 +24,9 @@ label.choice {
     padding: 10px 15px !important;
 }
 
-.redesigned-theme-2018 .wufoo li {
+/* .redesigned-theme-2018 .wufoo li {
     padding: 14px !important;
-}
+} */
 
 .redesigned-theme-2018 .wufoo .section div {
     margin-bottom: 20px;
@@ -34,4 +34,10 @@ label.choice {
 
 .redesigned-theme-2018 .wufoo .section h3 {
     border-top: 0px #FFFFFF !important;
+}
+
+@media only screen and (max-width: 580px) {
+    .redesigned-theme-2018 form.wufoo {
+        padding-bottom: 10px !important;
+    }
 }
