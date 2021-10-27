@@ -4,7 +4,7 @@
     padding-top: 0px !important;
 }
 
-.field.text.fn {
+.field.text.fn, .field.text.ln {
     width: 148px;
 }
 
@@ -23,10 +23,6 @@ label.choice {
 .redesigned-theme-2018 input.btTxt {
     padding: 10px 15px !important;
 }
-
-/* .redesigned-theme-2018 .wufoo li {
-    padding: 14px !important;
-} */
 
 .redesigned-theme-2018 .wufoo .section div {
     margin-bottom: 20px;
