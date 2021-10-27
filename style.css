@@ -38,6 +38,8 @@ label.choice {
 
 @media only screen and (max-width: 580px) {
     .redesigned-theme-2018 form.wufoo {
-        padding-bottom: 10px !important;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
     }
 }
