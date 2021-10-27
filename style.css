@@ -11,3 +11,15 @@
 label.choice {
     width: 100% !important;
 }
+
+.redesigned-theme-2018 .wufoo .section h3 {
+    font-size: 16px !important;
+}
+
+.redesigned-theme-2018 .wufoo .section div {
+    font-size: 14px !important;
+}
+
+.redesigned-theme-2018 input.btTxt {
+    padding: 10px 15px !important;
+}
